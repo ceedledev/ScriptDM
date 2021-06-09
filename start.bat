@@ -1,1 +1,1 @@
-node galackdm.js
+node scriptdm.js
