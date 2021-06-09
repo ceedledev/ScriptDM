@@ -1,1 +1,1 @@
-npm installe discord.js chalk mkdirp system-sleep
+npm i
